@@ -38,6 +38,26 @@ Summezise of numerical data
 not tell hold story
 useful and meaningful
 
+
+
 2. Display numerical data
 For categorical variable, we can display by count, percentage (ex number of femme, number of homme), we call area principle (pie, line)
 For quantatif variable, we can display by count, percentage (histogram usally for interval of value age (1-10), age (10-20))
+
+2.1 Center of variation:
+mean (numerical average )
+median (midpoint) (point that have the most individual values)
+variance 1/(n-1)Sigma(Xi-Xmean)(Xi-Xmean)
+standard deviation : sqrt(variance)
+Quantile(percentile-threshold) the value that have %value that less than it
+Quartile = the set of quantile that have 25%, 50%, 75% values that less than it
+
+2.2
+Box plot : Five value : min, Q1, median (Q2-50%), Q3, max ( we can add some outlier, extremes value)
+2.3 Association between variables
+ex P1=P(internet|young)
+p2=P(internet|senior)
+Relative risk rr=P1/P2
+Odds ratio or=(P1/(1-P1))/(P2/(1-P2))
+
+
