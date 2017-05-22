@@ -60,4 +60,12 @@ p2=P(internet|senior)
 Relative risk rr=P1/P2
 Odds ratio or=(P1/(1-P1))/(P2/(1-P2))
 
+2.4 Relation between variables
+
+correlation : assocation between quantative variables 
+r=(1/n-1)Sigma((Xi-Xmean)/variance S)((Yi-Ymean)/variance Y)
+r in [-1, 1]
+r< 0 negative relation
+r>0 positive relation
+r=0 : pas de relation
 
