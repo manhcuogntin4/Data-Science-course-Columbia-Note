@@ -69,3 +69,13 @@ r< 0 negative relation
 r>0 positive relation
 r=0 : pas de relation
 
+2.6 Probability:
+
+Random process (randomness):
+  Unpredictable
+  Trend
+Describe randomness
+  Write down all outcomes (sample spaces)
+  Change, probability ( of each outcome )
+  Probability of an event is the sum of the probabilities of the outcomes included in the definition of the event.
+  
