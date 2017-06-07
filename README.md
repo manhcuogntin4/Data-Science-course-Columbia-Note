@@ -79,3 +79,10 @@ Describe randomness
   Change, probability ( of each outcome )
   Probability of an event is the sum of the probabilities of the outcomes included in the definition of the event.
   
+3. Data Analysis
+
+Five steps in overall process of data science : Data Acquisition, Data preparation, Data Analysis, Presentation and report insight, turn insight into data-driven action   
+
+
+
+  
