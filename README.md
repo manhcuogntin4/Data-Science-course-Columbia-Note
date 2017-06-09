@@ -82,7 +82,11 @@ Describe randomness
 3. Data Analysis
 
 Five steps in overall process of data science : Data Acquisition, Data preparation, Data Analysis, Presentation and report insight, turn insight into data-driven action   
+Data Acquisition : Raw data from different source
+Data preparation: Clean data (remove noise), transform data (filter, put in range)
+Data Analysis: to build the model from the data. Classification, Regression, Clustering, Graph analysis, Association Analysis. Classification is to predict the category of data ( sunny, clouding, rainy ...). when a model has to predict the numeric value of data we have regression. Clustering is to organize the similar item into group
 
+4. Reporting Insight
 
 
   
