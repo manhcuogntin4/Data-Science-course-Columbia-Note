@@ -1,0 +1,10 @@
+cat foo.txt | wc
+
+grep
+more
+less
+sort
+uniq
+
+ls -l | grep txt | wc
+who | sort > current_user 

@@ -1,0 +1,17 @@
+command > outfile redirect output to file
+command < infile text input from file instead of standard input (keyboard)
+command 1> outfile 
+command 2> outfile redirect output stderror to file
+command >> outfile redirect output to file mode append
+
+example:
+ls > out.txt
+cat <out.txt
+cat 2> out.txt
+cat, more file_name
+sort file_name (sort line in the file alphabet)
+uniq file_name (affiche the unique line in file )
+wc -l file_name (count number line in file)
+pwd; ls -l
+pwd; ls-l >file_out (only result of ls-l goto file_out)
+(pwd; ls-l)> file_out ( result of both commands to file_out)
