@@ -1,0 +1,5 @@
+ps -aef
+tr '[a-z]' '[A-Z]' < fruits.txt > fruits-AllCap.txt
+cut fruits-AllCap.txt -c1-2
+
+ps -aef | cut -c1-8 | sort | uniq -c | sort -nr | head -3 | grep cuong
